@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "bop",
+    "slug": "bop",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "@react-native-firebase/app"
+    ],
+    "android": {
+      "package": "com.obv",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "package": "com.obv",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
+  }
+}

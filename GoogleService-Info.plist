@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>948183746615-8qum8g1uv4d9vmaahijnomsoiinvt6f2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.948183746615-8qum8g1uv4d9vmaahijnomsoiinvt6f2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyBH9QhHYZl3w0iEPf7IbxWXDeDh-PY1k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>948183746615</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.obv</string>
+	<key>PROJECT_ID</key>
+	<string>ortopediabv-5c1cf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ortopediabv-5c1cf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:948183746615:ios:e56bddf22accb40f3557b2</string>
+</dict>
+</plist>

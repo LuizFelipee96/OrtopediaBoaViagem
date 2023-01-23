@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "948183746615",
+    "project_id": "ortopediabv-5c1cf",
+    "storage_bucket": "ortopediabv-5c1cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948183746615:android:a3129a8ddfd6de273557b2",
+        "android_client_info": {
+          "package_name": "com.obv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948183746615-sodaiik1vgf6836hkcs3bs9f8431660v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EiooUT8IhMdsJuwK-IgWtPKjzXV1JAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948183746615-sodaiik1vgf6836hkcs3bs9f8431660v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "948183746615-8qum8g1uv4d9vmaahijnomsoiinvt6f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.obv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
